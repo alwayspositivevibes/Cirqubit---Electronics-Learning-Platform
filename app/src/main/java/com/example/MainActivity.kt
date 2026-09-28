@@ -22,6 +22,7 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.platform.testTag
+import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
@@ -108,14 +109,15 @@ class MainActivity : ComponentActivity() {
                                 Row(verticalAlignment = Alignment.CenterVertically) {
                                     Surface(
                                         shape = CircleShape,
-                                        color = MaterialTheme.colorScheme.primary.copy(alpha = 0.2f),
-                                        modifier = Modifier.size(44.dp)
+                                        color = Color(0xFF050B14),
+                                        border = androidx.compose.foundation.BorderStroke(1.5.dp, MaterialTheme.colorScheme.primary.copy(alpha = 0.5f)),
+                                        modifier = Modifier.size(46.dp)
                                     ) {
                                         Icon(
-                                            imageVector = Icons.Default.Memory,
-                                            contentDescription = "Cirqubit",
-                                            tint = MaterialTheme.colorScheme.primary,
-                                            modifier = Modifier.padding(10.dp)
+                                            painter = painterResource(id = R.drawable.ic_cirqubit_symbol),
+                                            contentDescription = "Cirqubit Symbol",
+                                            tint = Color.Unspecified,
+                                            modifier = Modifier.padding(6.dp)
                                         )
                                     }
                                     Spacer(modifier = Modifier.width(12.dp))
@@ -351,6 +353,13 @@ fun CirqubitTopAppBar(
                 verticalAlignment = Alignment.CenterVertically,
                 modifier = Modifier.fillMaxWidth()
             ) {
+                Icon(
+                    painter = painterResource(id = R.drawable.ic_cirqubit_symbol),
+                    contentDescription = "Cirqubit Symbol",
+                    tint = Color.Unspecified,
+                    modifier = Modifier.size(22.dp)
+                )
+                Spacer(modifier = Modifier.width(8.dp))
                 Text(
                     text = "Cirqubit",
                     style = MaterialTheme.typography.titleMedium.copy(
