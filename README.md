@@ -16,7 +16,8 @@ An interactive, gamified electronics learning platform combining structured lear
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/electronics-learning-platform/main/docs/assets/logo.png" width="180">
+<img width="280" height="280" alt="5e8f1fcb-463a-4f7b-a5c6-6aa6c772feb8" src="https://github.com/user-attachments/assets/dd9fda8a-89e7-44e0-ace3-cb33fd874615" />
+
 
 <br><br>
 
@@ -30,7 +31,8 @@ An interactive, gamified electronics learning platform combining structured lear
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/electronics-learning-platform/main/docs/screenshots/home.png" width="90%">
+<img width="620" height="850" alt="WhatsApp Image 2026-09-28 at 9 11 07 PM" src="https://github.com/user-attachments/assets/5205d8e6-859d-4015-bb0e-9f83c6d9681e" />
+
 
 ### Dashboard
 
@@ -53,10 +55,10 @@ The dashboard provides a central overview of the learner's:
 ## 📚 Lessons
 
 <div align="center">
+    <img width="400" height="825" alt="WhatsApp Image 2026-09-28 at 9 11 08 PM" src="https://github.com/user-attachments/assets/86938675-53e2-4099-8396-432d245979f6" />
+   <img width="400" height="825" alt="WhatsApp Image 2026-09-28 at 9 11 08 PM (2)" src="https://github.com/user-attachments/assets/c94cfcc9-305a-4a2d-a4a7-87e13e0b0bed" />
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/electronics-learning-platform/main/docs/screenshots/lessons.png" width="90%">
-
-</div>
+  </div>
 
 The learning system is organized into progressive electronics modules.
 
@@ -83,7 +85,8 @@ Lessons are progressively unlocked as the learner completes the required previou
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/electronics-learning-platform/main/docs/screenshots/challenges.png" width="90%">
+<img width="620" height="850" alt="WhatsApp Image 2026-09-28 at 9 11 08 PM (1)" src="https://github.com/user-attachments/assets/328d5873-2e71-41ad-a7bf-cbd43fd7003b" />
+
 
 </div>
 
@@ -118,7 +121,8 @@ The goal is to connect:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/electronics-learning-platform/main/docs/screenshots/circuit-designer.png" width="90%">
+<img width="620" height="850" alt="WhatsApp Image 2026-09-28 at 9 11 09 PM" src="https://github.com/user-attachments/assets/351f2a33-9ce0-4711-9230-a053f00636f7" />
+
 
 </div>
 
@@ -209,7 +213,8 @@ It is inspired by the general workflow of professional electronic design tools w
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/electronics-learning-platform/main/docs/screenshots/component-library.png" width="80%">
+<img width="620" height="850" alt="WhatsApp Image 2026-09-28 at 9 45 14 PM" src="https://github.com/user-attachments/assets/f230e31b-a357-4c7a-aebe-2d9a5c42b8a1" />
+
 
 </div>
 
@@ -227,16 +232,6 @@ It includes:
 The long-term goal is to create a progressively expanding electronics component library.
 
 ---
-
-# 🧮 Electronics Toolkit
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/electronics-learning-platform/main/docs/screenshots/tools.png" width="90%">
-
-</div>
-
-The Tools section brings common electronics calculations into one place.
 
 ### Scientific Calculator
 
