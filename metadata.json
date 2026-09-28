@@ -1,0 +1,6 @@
+{
+  "name": "Cirqubit",
+  "description": "Interactive, gamified electronics learning app with lessons, challenges, circuit design, and physical kit projects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
